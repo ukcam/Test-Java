@@ -30,7 +30,7 @@
 		</script>
 		<input id="myInput" type="text" placeholder="Search..">
 		<br/><br/>
-		<div class = "divBorder">a
+		<div class = "divBorder">
 		
 			<!-- table for the data -->
 			<table class="table table-striped">
